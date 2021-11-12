@@ -1,0 +1,26 @@
+div{
+    
+    width: 400px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(95, 132, 243);
+    transform: rotate(-45deg);
+    margin-top: 50px;
+    margin-left: -120px;
+    box-shadow: 2px 2px 2px;
+}
+
+a[href*="medicenter"]{
+
+    text-align: center;
+    width: 400px;
+    color: seashell;
+    text-decoration: none;
+    font-size: 22px;
+    text-shadow: 1px 1xpx 2px;
+    border-top: 2px solid rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    padding: 10px;
+}
